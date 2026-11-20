@@ -262,7 +262,6 @@ public class MyCustomKeyboardService extends InputMethodService {
         Color.parseColor("#4C0519")
     };
 
-    // Har qisam ke chalte phirte colours (deep cyan, violet, magenta, rose, amber, emerald)
     private final int[] movingColors = {
         Color.parseColor("#09192F"),
         Color.parseColor("#1D1147"),
